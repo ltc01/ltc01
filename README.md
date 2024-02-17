@@ -17,4 +17,6 @@ I'm Laxmi Chaudhary, a Web developer from Mumbai. Welcome to my GitHub profile!
 
 ## Connect with me
 
-[LinkedIn](your-linkedin-profile-url) | [Twitter](your-twitter-profile-url) | [Website](your-website-url)
+[LinkedIn](https://www.linkedin.com/in/laxmi-c-845099188/) | [Twitter](your-twitter-profile-url) | [Website](your-website-url)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ltc01&theme=dark)](https://git.io/streak-stats)
