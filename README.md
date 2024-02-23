@@ -3,6 +3,7 @@
 I'm Laxmi Chaudhary, a Web developer from Mumbai. Welcome to my GitHub profile!
 
 🔭 I’m currently working on a project based on MERN Stack.
+
 🌱 I’m currently learning MERN Stack.
 👯 I’m looking to collaborate on Web development.
 💬 Ask me about HTML, CSS, Javascript.
