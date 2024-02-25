@@ -8,7 +8,6 @@ I'm a Web Developer based in Mumbai, India. Welcome to my GitHub profile!
 - 🌱 Learning more about the MERN Stack to improve my skills and create better websites.
 - 👯 Open to collaborating on web development projects. Let's team up and build something amazing together!
 - 💬 Ask me anything about HTML, CSS, or JavaScript. I'm here to help and share my knowledge!
-- 📫 You can react me via mail: laxmichoudhary909@gmail.com
 - ⚡ Fun fact: "I'm not much of a talker, maybe a bit lazy that way."
 
 ## Skills and Technologies
