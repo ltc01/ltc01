@@ -27,4 +27,4 @@ I'm a Web Developer based in Mumbai, India. Welcome to my GitHub profile!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/laxmi-c-845099188/)&emsp;[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=protodotio)](https://remarkable-tartufo-27b7f2.netlify.app/)
 
 
-Let's work together to make the web a better place! 🌐✨
+Let's work together to make the web a better place! ✨
