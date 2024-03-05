@@ -4,7 +4,7 @@ I'm a Web Developer based in Mumbai, India. Welcome to my GitHub profile!
 
 ## About Me:
 
-- 🔭 Currently, I'm working on a project using the MERN Stack. It's a set of technologies that helps in building web applications.
+- 🔭 Currently, I'm working on a project build with Django. It's a set of technologies that helps in building web applications specifically used for backend apps.
 - 🌱 Learning more about the MERN Stack to improve my skills and create better websites.
 - 👯 Open to collaborating on web development projects. Let's team up and build something amazing together!
 - 💬 Ask me anything about HTML, CSS, or JavaScript. I'm here to help and share my knowledge!
