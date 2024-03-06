@@ -1,6 +1,6 @@
 # Hello, I'm Laxmi Chaudhary!👋 
 
-I'm a Web Developer based in Mumbai, India. Welcome to my GitHub profile! 
+I'm a Web Developer based in Mumbai, India. Welcome to my GitHub profile.
 
 ## About Me:
 
