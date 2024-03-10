@@ -2,6 +2,8 @@
 
 I'm a Web Developer based in Mumbai, India. Welcome to my GitHub profile.
 
+![](https://komarev.com/ghpvc/?username=ltc01&color=blue)
+
 ## About Me:
 
 - 🔭 Currently, I'm working on a project build with Django. It's a set of technologies that helps in building web applications specifically used for backend apps.
