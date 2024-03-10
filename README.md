@@ -1,4 +1,4 @@
-# Hello, I'm Laxmi Chaudhary!👋 
+# Hello, It's Laxmi Chaudhary!👋 
 
 I'm a Web Developer based in Mumbai, India. Welcome to my GitHub profile.
 
