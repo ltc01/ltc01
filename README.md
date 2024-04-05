@@ -20,10 +20,6 @@ Welcome to my GitHub profile.
 ## GitHub Stats:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ltc01&show_icons=true&theme=dark)&emsp;&emsp;&emsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltc01&layout=compact&theme=dark)
- 
-## Github Streak:
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ltc01&theme=dark)](https://git.io/streak-stats)
 
 ## Connect with me:
 
