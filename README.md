@@ -10,8 +10,6 @@ Welcome to my GitHub profile.
 - 🔭 Currently, I'm working on a project build with MERN. It's a set of technologies that helps in building web applications.
 - 🌱 Learning more about the MERN Stack to improve my skills and create better websites.
 - 👯 Open to collaborating on web development projects. Let's team up and build something amazing together!
-- 💬 Ask me anything about HTML, CSS, or JavaScript. I'm here to help and share my knowledge!
-- ⚡ Fun fact: "I'm not much of a talker, maybe a bit lazy that way."
 
 ## Skills and Technologies:
 
